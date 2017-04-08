@@ -3,7 +3,6 @@ package imageread;
 import java.awt.Image;
 import java.io.IOException;
 import java.net.URL;
-java.awt.image.BufferedImage
 import javax.imageio.ImageIO;
 public class ReadImage {
 
